@@ -1,2 +1,3 @@
 # For large data files
 *.csv
+data/*.csv
