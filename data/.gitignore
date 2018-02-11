@@ -1,3 +1,5 @@
 # For large data files
 train.csv
 weather.csv
+train_weather.csv
+test_weather.csv
